@@ -1,14 +1,15 @@
-# Hi there 👋
-
 Welcome to my GitHub profile!
 
+# Hi there 👋
 [![LinkedIn](https://img.shields.io/badge/-MykelAllan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mykel-allan/)](https://www.linkedin.com/in/mykel-allan/)
+---
 <div align="end">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-## About Me
+---
 
-👋 Hi there! I'm a Computer Programmer Student currently pursuing my diploma at Humber College. I'm passionate about software and web development. My goal right now is to secure an internship after Graduation in Summer 2024.
+## About Me
+I'm a Computer Programmer Student currently pursuing my diploma at Humber College. I'm passionate about software and web development. My goal right now is to secure an internship after Graduation in Summer 2024.
 
 🌟 Here's a glimpse of my skills and experiences gained during my studies:
 
