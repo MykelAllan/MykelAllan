@@ -1,15 +1,22 @@
-Welcome to my GitHub profile!
 
-# Hi there 👋
+
+<div id="header" align="center">
+  <h1>Welcome to my GitHub profile!</h1>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h3>Hey There👋</h3>
+  
 [![LinkedIn](https://img.shields.io/badge/-MykelAllan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mykel-allan/)](https://www.linkedin.com/in/mykel-allan/)
----
-<div align="end">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
----
 
+
+---
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" width="600" height="400"/>
+</div>
+
+---
 ## About Me
-I'm a Computer Programmer Student currently pursuing my diploma at Humber College. I'm passionate about software and web development. My goal right now is to secure an internship after Graduation in Summer 2024.
+I'm a Computer Programmer Student currently pursuing my diploma at Humber College. I'm passionate about software and web development. My goal right now is to secure an internship after Graduation in Fall 2024 / Winter 2025.
 
 🌟 Here's a glimpse of my skills and experiences gained during my studies:
 
@@ -19,9 +26,7 @@ I'm a Computer Programmer Student currently pursuing my diploma at Humber Colleg
 - **Additional Skills**: Strong problem-solving and time management abilities.
 
 🎓 **Education**:
-
-- Currently pursuing a Computer Programming Diploma with Co-op at Humber College.
-- Made it to the Dean's Honour List.
+- Made it to the Dean's Honour List (2 - times).
 - Highlighted courses include Algorithms, Operating Systems, Web Programming, Database Programming, and more.
 
 ---
