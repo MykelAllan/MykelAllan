@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**MykelAllan/MykelAllan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/-MykelAllan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mykel-allan/)](https://www.linkedin.com/in/mykel-allan/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+👋 Hi there! I'm a Computer Programmer Student currently pursuing my diploma at Humber College. I'm passionate about software and web development. My goal right now is to secure an internship after Graduation in Summer 2024.
+
+🌟 Here's a glimpse of my skills and experiences gained during my studies:
+
+- **Front-end Web Development**: Proficient in React, HTML, CSS, and JavaScript.
+- **Back-end Web Development**: Experienced with NodeJS and SpringBoot.
+- **Programming Languages**: Skilled in Java and JavaScript.
+- **Additional Skills**: Strong problem-solving and time management abilities.
+
+🎓 **Education**:
+
+- Currently pursuing a Computer Programming Diploma with Co-op at Humber College.
+- Made it to the Dean's Honour List.
+- Highlighted courses include Algorithms, Operating Systems, Web Programming, Database Programming, and more.
+
+💼 **Work Experience**:
+
+- Currently working as a Crew Trainer at McDonald's in Toronto, Ontario.
+  - Delivered excellent customer service in a fast-paced environment.
+  - Demonstrated strong time management and multitasking skills.
+  - Collaborated effectively with team members for efficient operations.
