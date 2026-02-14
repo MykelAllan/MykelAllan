@@ -16,7 +16,7 @@
 
 ---
 ## About Me
-I'm a Computer Programmer Student currently pursuing my diploma at Humber College. I'm passionate about software and web development. My goal right now is to secure an internship after Graduation in Fall 2024 / Winter 2025.
+I am a **Computer Programming Graduate** from Humber College (Class of 2024).
 
 🌟 Here's a glimpse of my skills and experiences gained during my studies:
 
@@ -26,7 +26,7 @@ I'm a Computer Programmer Student currently pursuing my diploma at Humber Colleg
 - **Additional Skills**: Strong problem-solving and time management abilities.
 
 🎓 **Education**:
-- Made it to the Dean's Honour List (2 - times).
+- Made it to the Dean's Honour List (3 - times).
 - Highlighted courses include Algorithms, Operating Systems, Web Programming, Database Programming, and more.
 
 ---
